@@ -29,4 +29,25 @@ survey and report damage.
 - Maintain regular communication with the treasurer and accountant. Collaborate
 with treasurer on creating monthly MLP income and expense reports and review
 reports. Collaborate with treasurer on debt repayment strategies.
+- Manage communications and facilitate collaboration with the general public
+website upkeep (with help from the ISP/NOC), email announcements, phone
+announcements, mailings, rate changes, planned outages. Potentially dealing
+with customer complaints.
 
+
+## The MLP Manager in order to effectively carry out these responsibilities, the manager should demonstrate:
+
+- Excellent communication skills and ability to clearly articulate thoughts
+and ideas 
+- Ability to listen and have productive dialogue during challenging
+conversations 
+- Willingness to learn  
+- Proven organizational and project management skills   
+- Excellent written communications skills   
+- Experience managing budgets   
+- Ability to travel to attend conferences, training, and other events as
+necessary to represent Wendell 
+- Willingness and ability to work evenings and weekends as job requires  
+- Technical expertise related to fiber/telecommunications networks  
+- Public sector financial management  
+- Experience with contracts and/or legal agreements
