@@ -34,6 +34,8 @@ website upkeep (with help from the ISP/NOC), email announcements, phone
 announcements, mailings, rate changes, planned outages. Potentially dealing
 with customer complaints.
 
+The MLP Manager will receive an annual stipend of $6,000.00 for an average 
+of 4-6 hours work per week.
 
 ## The MLP Manager in order to effectively carry out these responsibilities, the manager should demonstrate:
 
@@ -51,3 +53,4 @@ necessary to represent Wendell
 - Technical expertise related to fiber/telecommunications networks  
 - Public sector financial management  
 - Experience with contracts and/or legal agreements
+
