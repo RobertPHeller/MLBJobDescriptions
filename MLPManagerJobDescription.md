@@ -1,11 +1,12 @@
 # Municipal Light Plant Manager Job Description
 
-The Municipal Light Plant Manager, under the oversight of the Municipal Light
-Board (MLB), will be responsible for the following tasks:
+The Municipal Light Plant (MLP) Manager, under the oversight of the Municipal
+mLight Board (MLB), will be responsible for the following tasks:
 
 - Provide annual report on operations to the Selectboard and Finance Committee
 - Attend regularly scheduled MLP meetings and any other meetings with the 
-ISP/NOC and other parties.
+ISP (Internet Service Provider) / NOC (Network Operations Center) and other 
+parties. 
 - Track expenses and submit bills for payment to Town Accountant   
     - ISP/NOC monthly bills and routine maintenance bills  
     - Hut Electricity  
@@ -17,8 +18,9 @@ ISP/NOC and other parties.
 March 1st. Prepare articles for annual town meeting budget, stabilization 
 account (depreciation) deposits, payment of debt or debt interest, put money 
 into reserve. 
-- Work with the MLB to submit RFPs or negotiate IGAs for contract renewals for 
-ISP/NOC every 5 years appox. (next is in 2027) 
+- Work with the MLB to submit RFPs (Request For Proposals) or negotiate IGAs 
+(Inter-Government Agreements) for contract renewals for ISP/NOC every 5 years 
+appox. (next is in 2027) 
 - Manage vendor contracts and relationships: ISP/NOC, other Utilities (such as 
 electric power), generator maintaince, propane, backhaul carriers, and other 
 vendors and contractors.   
@@ -35,7 +37,7 @@ announcements, mailings, rate changes, planned outages. Potentially dealing
 with customer complaints.
 
 The MLP Manager will receive an annual stipend of $6,000.00 for an average 
-of 4-6 hours work per week.
+of 4-6 hours work per month.
 
 ## The MLP Manager in order to effectively carry out these responsibilities, the manager should demonstrate:
 

@@ -5,16 +5,17 @@ and up to 3 associate members, will be responsible for the operations and
 maintenance of the Wendell Net fiber optic network (the Municipal Light Plant).
 These positions are unpaid.
 
-MLB members should be able to commit to at least 3-5 hours a week of meetings,
-research, and paperwork, and are expected to appoint and oversee an Municipal
-Light Plant (MLP) Manager. Together the Board and Manager will be involved in
-the following tasks: 
+MLB members should be able to commit to at least 3-5 hours per month of
+meetings, research, and paperwork, and are expected to appoint and oversee an
+Municipal Light Plant (MLP) Manager. Together the Board and Manager will be
+involved in the following tasks: 
 
 ## Coordinate MLP-Related Deadlines and Duties with Town and Contractors
 
 - Provide annual report on operations to the Selectboard and Finance Committee 
 - Attend regularly scheduled MLP meetings and any other meetings with the 
-ISP/NOC and other parties.
+ISP (Internet Service Provider) / NOC (Network Operations Center) and other 
+parties. 
 - Track expenses and submit bills for payment to Town Accountant   
     - ISP/NOC monthly bills and routine maintenance bills  
     - Hut Electricity  
@@ -25,8 +26,9 @@ ISP/NOC and other parties.
 March 1st. Prepare articles for annual town meeting budget, stabilization
 account (depreciation) deposits, payment of debt or debt interest, put money
 into reserve. 
-- Work to submit RFPs or negotiate IGAs for contract renewals for ISP/NOC 
-every 5 years appox. (next is in 2027) 
+- Work to submit RFPs (Request For Proposals) or negotiate IGAs 
+(Inter-Governtment Agreements) for contract renewals for ISP/NOC every 5 years 
+appox. (next is in 2027)  
 - Manage vendor contracts and relationships: ISP/NOC, other Utilities (such as 
 electric power), generator maintaince, propane, backhaul carriers, and other 
 vendors and contractors.   
